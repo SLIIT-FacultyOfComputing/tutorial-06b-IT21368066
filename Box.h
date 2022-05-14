@@ -1,8 +1,8 @@
 class Box {
     private:
-       int length;
-       int width;
-       int height;
+       int len;
+       int wid;
+       int hei;
     public:
        // write prototypes of setters for length, width and height
 void setLength(int length);
